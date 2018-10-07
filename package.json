@@ -1,6 +1,6 @@
 {
   "name": "de.fhg.fokus.famium.presentation",
-  "version": "0.0.2.goxpro.1",
+  "version": "0.0.2-goxpro-1",
   "description": "Cordova Presentation API Plugin",
   "cordova": {
     "id": "de.fhg.fokus.famium.presentation",
