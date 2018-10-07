@@ -1,6 +1,8 @@
 
 # de.fhg.fokus.famium.presentation
 
+Forked into geoffcallender/cordova-plugin-presentation from Visigo/cordova-plugin-presentation which was forked from fraunhoferfokus/cordova-plugin-presentation .
+
 Project website: [Cordova Presentation API Plugin](http://fraunhoferfokus.github.io/cordova-plugin-presentation/
 )
 

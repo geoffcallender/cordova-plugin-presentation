@@ -24,6 +24,7 @@
 @protocol PresentationSessionDelegate;
 
 @protocol JS_PresentationSession <JSExport>
+    @property (readonly) NSString *sid;
     @property (readonly) NSString *state;
     - (void)postMessage :(NSString *) message;
     - (void)close;

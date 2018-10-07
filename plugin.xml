@@ -28,8 +28,8 @@
     <description>Cordova Presentation API Plugin</description>
     <license>Apache 2.0</license>
     <keywords>famium,cordova,presentation,presentation api,second screen,multi-screen,webscreens</keywords>
-    <repo>https://github.com/fraunhoferfokus/cordova-plugin-presentation.git</repo>
-    <issue>https://github.com/fraunhoferfokus/cordova-plugin-presentation/issues</issue>
+    <repo>https://github.com/geoffcallender/cordova-plugin-presentation.git</repo>
+    <issue>https://github.com/geoffcallender/cordova-plugin-presentation/issues</issue>
 
     <js-module src="www/presentation.js" name="presentation">
         <clobbers target="navigator.presentation" />
