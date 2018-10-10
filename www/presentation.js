@@ -1,5 +1,3 @@
-// goXpro: added the cordova.define(...) wrapper, because that's what cordova.js's injectIfNecessary(...) would do on the fly if we hadn't commented it out.
-cordova.define("de.fhg.fokus.famium.presentation.presentation", function(require, exports, module) { 
 /*
  * Copyright 2014 Fraunhofer FOKUS
  *
@@ -368,6 +366,3 @@ var presentationSessionClose = function(ds)
  */
 
 module.exports = new NavigatorPresentation();
-
-// goXpro: added the line below.
-});
